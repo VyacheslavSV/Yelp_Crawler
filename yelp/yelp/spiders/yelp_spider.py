@@ -4,7 +4,8 @@ import scrapy
 
 CATEGORY = "contractors"
 LOCATION = "San Francisco, CA"
-RANGE = 10
+RANGE = 2
+
 
 # start crawl: input in terminal: scrapy crawl yelp_spider -o output.json
 class YelpSpider(scrapy.Spider):
