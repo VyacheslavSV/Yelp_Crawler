@@ -1,40 +1,342 @@
 [
-{"business_name": "Golden Heights Remodeling", "business_rating": "5.0", "num_reviews": "5", "business_yelp_url": "https://www.yelp.com/biz/golden-heights-remodeling-san-francisco", "business_website": "https://www.goldenheightsremodeling.com", "reviews": []},
-{"business_name": "Lemus Construction", "business_rating": "5.0", "num_reviews": "17", "business_yelp_url": "https://www.yelp.com/biz/lemus-construction-san-francisco-2", "business_website": "http://lemusco.com", "reviews": []},
-{"business_name": "M & L Construction", "business_rating": "4.7", "num_reviews": "123", "business_yelp_url": "https://www.yelp.com/biz/m-and-l-construction-san-francisco", "business_website": "http://www.mandlconstruction.com", "reviews": []},
-{"business_name": "Mission Home Remodeling", "business_rating": "5.0", "num_reviews": "24", "business_yelp_url": "https://www.yelp.com/biz/mission-home-remodeling-san-francisco", "business_website": "https://missionhomeremodeling.com", "reviews": []},
-{"business_name": "Edenavow Construction & Design", "business_rating": "4.9", "num_reviews": "68", "business_yelp_url": "https://www.yelp.com/biz/edenavow-construction-and-design-san-francisco", "business_website": "http://Edenavowconstruction.com", "reviews": []},
-{"business_name": "Realty Builders", "business_rating": "3.8", "num_reviews": "33", "business_yelp_url": "https://www.yelp.com/biz/realty-builders-san-francisco-5", "business_website": "http://www.realtybuildersinc.com", "reviews": []},
-{"business_name": "Prosper Construction", "business_rating": "4.7", "num_reviews": "83", "business_yelp_url": "https://www.yelp.com/biz/prosper-construction-san-francisco", "business_website": "https://www.prosperdevelopment.com", "reviews": []},
-{"business_name": "Dufficy Fine Carpentry And Design", "business_rating": "4.9", "num_reviews": "71", "business_yelp_url": "https://www.yelp.com/biz/dufficy-fine-carpentry-and-design-san-francisco-2", "business_website": "http://www.dufficy.blogspot.com", "reviews": []},
-{"business_name": "Home Quality Remodeling", "business_rating": "4.7", "num_reviews": "117", "business_yelp_url": "https://www.yelp.com/biz/home-quality-remodeling-concord-4", "business_website": "https://www.homequalityremodeling.com", "reviews": []},
-{"business_name": "GADI Construction", "business_rating": "4.6", "num_reviews": "55", "business_yelp_url": "https://www.yelp.com/biz/gadi-construction-santa-clara", "business_website": "https://www.gadiconstruction.com", "reviews": []},
-{"business_name": "Winfield Construction", "business_rating": "4.8", "num_reviews": "5", "business_yelp_url": "https://www.yelp.com/biz/winfield-construction-emeryville", "business_website": "http://www.winfieldconstruction.net/", "reviews": []},
-{"business_name": "Rhino Builders", "business_rating": "4.9", "num_reviews": "10", "business_yelp_url": "https://www.yelp.com/biz/rhino-builders-lafayette", "business_website": "https://rhinobuilders1989.com/general-contractor-in-orinda-ca/", "reviews": []},
-{"business_name": "Baron Construction and Remodeling", "business_rating": "4.3", "num_reviews": "87", "business_yelp_url": "https://www.yelp.com/biz/baron-construction-and-remodeling-saratoga", "business_website": "https://baroncnr.com", "reviews": []},
-{"business_name": "Rothman Construction", "business_rating": "5.0", "num_reviews": "5", "business_yelp_url": "https://www.yelp.com/biz/rothman-construction-mill-valley", "business_website": "https://rothman-construction.business.site", "reviews": []},
-{"business_name": "Element Home Remodeling", "business_rating": "4.8", "num_reviews": "85", "business_yelp_url": "https://www.yelp.com/biz/element-home-remodeling-mountain-view", "business_website": "https://elementhomeremodeling.com", "reviews": []},
-{"business_name": "Level Up Home Remodeling", "business_rating": "4.9", "num_reviews": "60", "business_yelp_url": "https://www.yelp.com/biz/level-up-home-remodeling-mountain-view-3", "business_website": "https://www.leveluphomeremodeling.com", "reviews": []},
-{"business_name": "Golden Heights Remodeling", "business_rating": "5.0", "num_reviews": "5", "business_yelp_url": "https://www.yelp.com/biz/golden-heights-remodeling-san-francisco", "business_website": "https://www.goldenheightsremodeling.com", "reviews": []},
-{"business_name": "Precision Construction Services ", "business_rating": "4.8", "num_reviews": "61", "business_yelp_url": "https://www.yelp.com/biz/precision-construction-services-mountain-view", "business_website": "http://www.precisionservicesgroupinc.com", "reviews": []},
-{"business_name": "AAA Construction & Design, Inc", "business_rating": "4.9", "num_reviews": "31", "business_yelp_url": "https://www.yelp.com/biz/aaa-construction-and-design-inc-novato-4", "business_website": "https://aaaconstructsf.com", "reviews": []},
-{"business_name": "A2Z Remodeling", "business_rating": "4.9", "num_reviews": "74", "business_yelp_url": "https://www.yelp.com/biz/a2z-remodeling-oakland-2", "business_website": "https://www.a2zremodelingcal.com", "reviews": []},
-{"business_name": "Masterful Construction", "business_rating": "5.0", "num_reviews": "19", "business_yelp_url": "https://www.yelp.com/biz/masterful-construction-san-mateo", "business_website": "https://masterfulconstructioninc.com", "reviews": []},
-{"business_name": "Aaron Gordon Construction", "business_rating": "4.7", "num_reviews": "82", "business_yelp_url": "https://www.yelp.com/biz/aaron-gordon-construction-san-francisco-4", "business_website": "http://agcsf.com/", "reviews": []},
-{"business_name": "Prosper Construction", "business_rating": "4.7", "num_reviews": "83", "business_yelp_url": "https://www.yelp.com/biz/prosper-construction-san-francisco", "business_website": "https://www.prosperdevelopment.com", "reviews": []},
-{"business_name": "Lee Family", "business_rating": "4.5", "num_reviews": "38", "business_yelp_url": "https://www.yelp.com/biz/lee-family-san-francisco-4", "business_website": "http://www.leefamilycorp.com", "reviews": []},
-{"business_name": "Mizen Construction", "business_rating": "5.0", "num_reviews": "22", "business_yelp_url": "https://www.yelp.com/biz/mizen-construction-san-francisco-3", "business_website": "http://mizenconstruction.com", "reviews": []},
-{"business_name": "Y Group Remodeling", "business_rating": "4.8", "num_reviews": "22", "business_yelp_url": "https://www.yelp.com/biz/y-group-remodeling-san-ramon", "business_website": "http://www.ygroupremodeling.com", "reviews": []},
-{"business_name": "All Around Builder", "business_rating": "5.0", "num_reviews": "11", "business_yelp_url": "https://www.yelp.com/biz/all-around-builder-san-francisco", "business_website": "http://allaroundbuilder.net", "reviews": []},
-{"business_name": "Aaron Gordon Construction", "business_rating": "4.7", "num_reviews": "82", "business_yelp_url": "https://www.yelp.com/biz/aaron-gordon-construction-san-francisco-4", "business_website": "http://agcsf.com/", "reviews": []},
-{"business_name": "Architect Andrew Morrall", "business_rating": "5.0", "num_reviews": "40", "business_yelp_url": "https://www.yelp.com/biz/architect-andrew-morrall-san-francisco-2", "business_website": "http://www.andrewmorrallarchitect.com", "reviews": []},
-{"business_name": "A2Z Remodeling", "business_rating": "4.9", "num_reviews": "74", "business_yelp_url": "https://www.yelp.com/biz/a2z-remodeling-oakland-2", "business_website": "https://www.a2zremodelingcal.com", "reviews": []},
-{"business_name": "Reliable Construction", "business_rating": "4.9", "num_reviews": "37", "business_yelp_url": "https://www.yelp.com/biz/reliable-construction-san-francisco-2", "business_website": "http://reliableconstructionbayarea.com", "reviews": []},
-{"business_name": "General SF", "business_rating": "4.8", "num_reviews": "299", "business_yelp_url": "https://www.yelp.com/biz/general-sf-san-francisco-2", "business_website": "http://www.generalsf.com", "reviews": []},
-{"business_name": "Mountain Top Construction", "business_rating": "4.8", "num_reviews": "24", "business_yelp_url": "https://www.yelp.com/biz/mountain-top-construction-san-francisco-2", "business_website": "https://mtmountaintop.com", "reviews": []},
-{"business_name": "Edri Construction", "business_rating": "4.8", "num_reviews": "48", "business_yelp_url": "https://www.yelp.com/biz/edri-construction-san-francisco", "business_website": "http://edriconstruction.com", "reviews": []},
-{"business_name": "Pop Construction", "business_rating": "4.8", "num_reviews": "16", "business_yelp_url": "https://www.yelp.com/biz/pop-construction-san-francisco-3", "business_website": "https://www.popconstructionsf.com", "reviews": []},
-{"business_name": "Remodeling Heroes", "business_rating": "4.7", "num_reviews": "50", "business_yelp_url": "https://www.yelp.com/biz/remodeling-heroes-alameda-2", "business_website": "https://heroes.services", "reviews": []},
-{"business_name": "Super Home Builders", "business_rating": "4.2", "num_reviews": "17", "business_yelp_url": "https://www.yelp.com/biz/super-home-builders-san-francisco", "business_website": "http://www.superhomebuilders.com", "reviews": []},
-{"business_name": "Mountain Top Construction", "business_rating": "4.8", "num_reviews": "24", "business_yelp_url": "https://www.yelp.com/biz/mountain-top-construction-san-francisco-2", "business_website": "https://mtmountaintop.com", "reviews": []}
+  {
+    "business_name": "Aaron Gordon Construction",
+    "business_rating": "4.7",
+    "num_reviews": "82",
+    "business_yelp_url": "https://www.yelp.com/biz/aaron-gordon-construction-san-francisco-4",
+    "business_website": "/biz_photos/cLr-F8lcXb23UJm9YPMAPg",
+    "reviews": [
+      {
+        "reviewer_name": "Michael C.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "3/1/2018"
+      },
+      {
+        "reviewer_name": "Melissa D.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "1/3/2023"
+      },
+      {
+        "reviewer_name": "Philip R.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "11/2/2021"
+      },
+      {
+        "reviewer_name": "S. G.",
+        "reviewer_location": "Palo Alto, CA",
+        "review_date": "5/25/2021"
+      },
+      {
+        "reviewer_name": "Jennifer D.",
+        "reviewer_location": "San Carlos, CA",
+        "review_date": "9/6/2021"
+      }
+    ]
+  },
+  {
+    "business_name": "Reliable Construction",
+    "business_rating": "4.9",
+    "num_reviews": "37",
+    "business_yelp_url": "https://www.yelp.com/biz/reliable-construction-san-francisco-2",
+    "business_website": "/biz_photos/WxuwTdrWL-mLdCprhcMPhA",
+    "reviews": [
+      {
+        "reviewer_name": "neldog W.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "9/2/2022"
+      },
+      {
+        "reviewer_name": "Gabriel L.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "2/21/2023"
+      },
+      {
+        "reviewer_name": "Chad P.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "2/18/2023"
+      },
+      {
+        "reviewer_name": "Harman N.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "11/3/2022"
+      },
+      {
+        "reviewer_name": "Odin A.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "9/24/2022"
+      }
+    ]
+  },
+  {
+    "business_name": "Golden Heights Remodeling",
+    "business_rating": "5.0",
+    "num_reviews": "6",
+    "business_yelp_url": "https://www.yelp.com/biz/golden-heights-remodeling-san-francisco",
+    "business_website": "/biz_photos/YLjF5o7wB8YbG41m9jPioQ",
+    "reviews": [
+      {
+        "reviewer_name": "Jeffrey B.",
+        "reviewer_location": "San Mateo, CA",
+        "review_date": "7/18/2023"
+      },
+      {
+        "reviewer_name": "Shon B.",
+        "reviewer_location": "Vallejo, CA",
+        "review_date": "4/27/2023"
+      },
+      {
+        "reviewer_name": "Mark K.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "8/27/2023"
+      },
+      {
+        "reviewer_name": "AmirHossein J.",
+        "reviewer_location": "Walnut Creek, CA",
+        "review_date": "9/13/2023"
+      },
+      {
+        "reviewer_name": "Miguel H.",
+        "reviewer_location": "Pleasant Hill, CA",
+        "review_date": "3/31/2023"
+      }
+    ]
+  },
+  {
+    "business_name": "Mizen Construction",
+    "business_rating": "5.0",
+    "num_reviews": "22",
+    "business_yelp_url": "https://www.yelp.com/biz/mizen-construction-san-francisco-3",
+    "business_website": "/biz_photos/sV5bQAcGSvsB78nU2c36Vg",
+    "reviews": [
+      {
+        "reviewer_name": "Jan C.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "6/30/2020"
+      },
+      {
+        "reviewer_name": "Dragonfly L.",
+        "reviewer_location": "Mountain View, CA",
+        "review_date": "4/17/2022"
+      },
+      {
+        "reviewer_name": "Brian N.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "8/26/2021"
+      },
+      {
+        "reviewer_name": "Ingrid D.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "11/27/2018"
+      },
+      {
+        "reviewer_name": "Molly S.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "9/26/2017"
+      }
+    ]
+  },
+  {
+    "business_name": "Lee Family",
+    "business_rating": "4.5",
+    "num_reviews": "38",
+    "business_yelp_url": "https://www.yelp.com/biz/lee-family-san-francisco-4",
+    "business_website": "/biz_photos/h5yOSyeEIkfUy7ZnRyn4Eg",
+    "reviews": [
+      {
+        "reviewer_name": "Anna K.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "2/13/2021"
+      },
+      {
+        "reviewer_name": "Jennifer K.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "7/1/2023"
+      },
+      {
+        "reviewer_name": "Lisa L.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "3/16/2023"
+      },
+      {
+        "reviewer_name": "Shortt F.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "2/23/2023"
+      },
+      {
+        "reviewer_name": "Noelle F.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "11/7/2022"
+      }
+    ]
+  },
+  {
+    "business_name": "All Around Builder",
+    "business_rating": "5.0",
+    "num_reviews": "11",
+    "business_yelp_url": "https://www.yelp.com/biz/all-around-builder-san-francisco",
+    "business_website": "/biz_photos/UVMSsVQxyG2uE5HYFFBW4g",
+    "reviews": [
+      {
+        "reviewer_name": "L. N.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "9/29/2021"
+      },
+      {
+        "reviewer_name": "Nia Jean R.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "1/13/2022"
+      },
+      {
+        "reviewer_name": "Claire G.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "7/23/2021"
+      },
+      {
+        "reviewer_name": "Kyle A.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "6/25/2021"
+      },
+      {
+        "reviewer_name": "Wade H.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "2/27/2022"
+      }
+    ]
+  },
+  {
+    "business_name": "Y Group Remodeling",
+    "business_rating": "4.8",
+    "num_reviews": "22",
+    "business_yelp_url": "https://www.yelp.com/biz/y-group-remodeling-san-ramon",
+    "business_website": "/biz_photos/twTcsNPvNbJZGSFGuYKN-Q",
+    "reviews": [
+      {
+        "reviewer_name": "Nessreen N.",
+        "reviewer_location": "Oakley, CA",
+        "review_date": "7/13/2023"
+      },
+      {
+        "reviewer_name": "Hiral P.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "4/25/2023"
+      },
+      {
+        "reviewer_name": "Bhakti H.",
+        "reviewer_location": "Sunnyvale, CA",
+        "review_date": "7/11/2023"
+      },
+      {
+        "reviewer_name": "Didi B.",
+        "reviewer_location": "San Leandro, CA",
+        "review_date": "1/15/2023"
+      },
+      {
+        "reviewer_name": "Steve S.",
+        "reviewer_location": "San Ramon, CA",
+        "review_date": "8/3/2023"
+      }
+    ]
+  },
+  {
+    "business_name": "Dufficy Fine Carpentry And Design",
+    "business_rating": "4.9",
+    "num_reviews": "71",
+    "business_yelp_url": "https://www.yelp.com/biz/dufficy-fine-carpentry-and-design-san-francisco-2",
+    "business_website": "/biz_photos/n9UmGOGJe4JcaLv4b1zSBg",
+    "reviews": [
+      {
+        "reviewer_name": "Chris O.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "5/3/2019"
+      },
+      {
+        "reviewer_name": "D R.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "5/12/2022"
+      },
+      {
+        "reviewer_name": "Nathan L.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "5/10/2021"
+      },
+      {
+        "reviewer_name": "Hannah L.",
+        "reviewer_location": "Wallingford, CT",
+        "review_date": "12/1/2021"
+      },
+      {
+        "reviewer_name": "Lynda H.",
+        "reviewer_location": "Palo Alto, CA",
+        "review_date": "2/1/2021"
+      }
+    ]
+  },
+  {
+    "business_name": "Benjamin Shaw",
+    "business_rating": "4.9",
+    "num_reviews": "31",
+    "business_yelp_url": "https://www.yelp.com/biz/benjamin-shaw-san-francisco",
+    "business_website": "/biz_photos/Nk6tP5llB7jThUoSFjYp_w",
+    "reviews": [
+      {
+        "reviewer_name": "Allan R.",
+        "reviewer_location": "Stanford, CA",
+        "review_date": "6/15/2023"
+      },
+      {
+        "reviewer_name": "bill k.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "6/23/2021"
+      },
+      {
+        "reviewer_name": "Carlina H.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "6/5/2022"
+      },
+      {
+        "reviewer_name": "DeeDee S.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "8/22/2018"
+      },
+      {
+        "reviewer_name": "Nora W.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "8/18/2019"
+      }
+    ]
+  },
+  {
+    "business_name": "Surfaces 'N More",
+    "business_rating": "5.0",
+    "num_reviews": "11",
+    "business_yelp_url": "https://www.yelp.com/biz/surfaces-n-more-san-francisco",
+    "business_website": "/biz_photos/J347t60d2W2x59VsCM5XBA",
+    "reviews": [
+      {
+        "reviewer_name": "S G.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "3/28/2023"
+      },
+      {
+        "reviewer_name": "Chaoyi H.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "10/28/2020"
+      },
+      {
+        "reviewer_name": "Chuck M.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "9/14/2018"
+      },
+      {
+        "reviewer_name": "Lisa R.",
+        "reviewer_location": "San Francisco, CA",
+        "review_date": "11/18/2017"
+      },
+      {
+        "reviewer_name": "Claire S.",
+        "reviewer_location": "Alameda, CA",
+        "review_date": "5/19/2020"
+      }
+    ]
+  }
 ]
